@@ -1,1 +1,1 @@
-# psf__sp
+# PSF for SuperPoint
